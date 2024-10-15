@@ -14,4 +14,4 @@ with the email and password I show you down below.
 
 ADMIN
 Email: akim@tech.com
-Password: 7777
+Password: 1111
